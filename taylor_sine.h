@@ -5,7 +5,6 @@
 
 double taylor_sine(double x, int n);
 
-
 double factorial(int num);
 
 #endif
